@@ -29,7 +29,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/goviiind">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goviiind&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goviiind&theme=buefy&layout=compact" />
 </a>
